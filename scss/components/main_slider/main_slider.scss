@@ -68,13 +68,11 @@
   }
 
   position: relative;
-  margin: 20px 0 0 0;
 
   &__item{
     width: 100%;
     overflow: hidden;
     border: 1px solid color(gray-2);
-    border-radius: 5px;
     padding: 20px 60px;
   }
 
@@ -92,7 +90,6 @@
 
   &__left-content-button .button{
     border: 1px solid color(gray-6);
-    box-shadow: 1px 1px 2px color(gray-6);
   }
 
   &__left-content{

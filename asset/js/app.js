@@ -23,7 +23,7 @@ if (isMobile.any()) {
 }
 /* ...SEARCH */
 
-/* SLICK SLIDER MAIN PAGE ... */
+/* SLICK SLIDER MAIN PAGE... */
 $(document).ready(function () {
     $('.slider').slick({
         arrows: true, //Стрелки
