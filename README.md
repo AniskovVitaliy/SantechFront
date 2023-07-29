@@ -1,5 +1,5 @@
 ## SCSS
-####Начало работы
+###Начало работы
 >Клонировать репозиторий проекта
 >> git clone
 > 
@@ -8,7 +8,9 @@
 > 
 > Установить `sass`
 >> npm install -g sass
+
 ###CLI для SCSS
+
 >Скомпилировать `css` файл на основании `scss`
 >> sass scss/index.scss:asset/css/index.css <br>`пусть к scss: пусть к css от корня проекта`
 > 
